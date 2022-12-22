@@ -1,0 +1,34 @@
+{
+        "name": "Stealth-purple",
+        "author": "tas367#0932",
+        "theme_color_map": {
+                "KEYBOARD": ["#000000", "#FFFFFF"]
+                "BACKGROUND_MODIFIER_SELECTED": ["#000000", "#FFFFFF"],
+                "CHANNELS_DEFAULT": ["#ffffff", "#FFFFFF"],
+                "HEADER_PRIMARY": ["#ffffff", "#FFFFFF"],
+                "HEADER_SECONDARY": ["#AC95FF", "#FFFFFF"],
+                "HEADER_SECONDARY": ["#AC95FF", "#FFFFFF"],
+                "INTERACTIVE_ACTIVE": ["#ffffff", "#FFFFFF"],
+                "INTERACTIVE_MUTED": ["#aaaaaa", "#FFFFFF"],
+                "TEXT_LINK": ["#AC95FF", "#FFFFFF"],
+                "TEXT_MUTED": ["#ffffff", "#FFFFFF"],
+                "TEXT_NORMAL": ["#ffffff", "#FFFFFFF"]
+        },
+        "colours": {
+                "PRIMARY_DARK": "#ffffff",
+                "PRIMARY_DARK_100": "#ffffff",
+                "PRIMARY_DARK_300": "#ffffff",
+                "PRIMARY_DARK_360": "#cccccc",
+                "PRIMARY_DARK_400": "#AC95FF",
+                "PRIMARY_DARK_500": "#AC95FF",
+                "PRIMARY_DARK_600": "#111111",
+                "PRIMARY_DARK_630": "#353535",
+                "PRIMARY_DARK_700": "#353535",
+                "PRIMARY_DARK_800": "#000000",
+                "BRAND_NEW": "#AC95FF",
+                "WHITE": "#FFFFFF"
+        },
+        "unsafe_colors": {
+                "CHAT_GREY": "#121212"
+        }
+}
